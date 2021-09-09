@@ -1,7 +1,5 @@
 ### Hi there, I'm Dario 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dar1ooo?style=social)]
-
 <br />
 
 ### Languages and Tools:
