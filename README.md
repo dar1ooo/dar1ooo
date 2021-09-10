@@ -5,9 +5,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="Dario's GitHub Stats" src="https://github-readme-stats.dar1ooo.vercel.app/api?username=dar1ooo&show_icons=true&theme=gotham" />
-
-
+<img align="left" alt="Dario's GitHub Stats" src="https://github-readme-stats.dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&show_icons=true&theme=gotham" />
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
