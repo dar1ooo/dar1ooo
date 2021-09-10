@@ -53,5 +53,4 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
-<img src="https://badges.pufler.dev/visits/dar1ooo/dar1ooo" />
+<img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success?style=for-the-badge&logo=appveyor" />  <img src="https://badges.pufler.dev/visits/dar1ooo/dar1ooo?style=for-the-badge&logo=appveyor" />
