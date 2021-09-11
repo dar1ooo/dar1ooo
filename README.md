@@ -23,10 +23,10 @@
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 
-[1.1]: https://imgur.com/NScDJQ9.png (spotify icon without padding)
-[2.1]: https://imgur.com/hyEQE9Z.png (twitter icon without padding)
-[3.1]: https://imgur.com/Owli0mR.png (instagram icon without padding)
-[4.1]: https://imgur.com/lMbWZfR.png (snapchat icon without padding)
+[1.1]: https://imgur.com/NScDJQ9.png (spotify)
+[2.1]: https://imgur.com/hyEQE9Z.png (twitter)
+[3.1]: https://imgur.com/Owli0mR.png (instagram)
+[4.1]: https://imgur.com/lMbWZfR.png (snapchat)
 
 [1]: https://open.spotify.com/user/darioschaffner7
 [2]: https://twitter.com/dar1oooo
