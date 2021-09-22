@@ -1,7 +1,7 @@
 <br>
 <br>
 <br>
-<h3 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a 19 year old Apprentice at <a href="https://www.exanic.ch/de/home/">exanic AG</a>, Open Source Contributor, and Professional Yak Shaver. I like Angular and I'm exploring Bot Programming 🐍 ☁️ </samp></h3>
+<h3 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a 19 year old Apprentice at <a href="https://www.exanic.ch/de/home/">exanic AG</a>, Open Source Contributor, and Professional Yak Shaver. I like <a href="https://angular.io/guide/what-is-angular">Angular</a> and I'm exploring Bot Programming with my friends🐍 ☁️</samp></h3>
 <br>
 <br>
 <br>
