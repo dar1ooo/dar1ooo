@@ -16,8 +16,10 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <br>
 </p>
-<img alt="Dario's GitHub Stats" src="https://github-readme-stats-three-chi.vercel.app/api/top-langs?username=dar1ooo&layout=compact&langs_count=10&theme=gotham" />
-<img alt="Dario's GitHub Stats" src="https://github-readme-stats-three-chi.vercel.app/api/wakatime?username=dar1ooo&layout=compact&theme=gotham" />
+
+[![Dario's Top Langs](https://github-readme-stats-three-chi.vercel.app/api/top-langs/?username=dar1ooo&langs_count=10&layout=compact&theme=gotham)](https://github.com/dar1ooo/github-readme-stats)
+
+[![Dario's wakatime stats](https://github-readme-stats-three-chi.vercel.app/api/wakatime?username=dar1ooo&layout=compact&theme=gotham)](https://github.com/dar1ooo/github-readme-stats)
 
 #### Follow me on my socials
 [![alt text][1.1]][1]
