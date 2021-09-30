@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="Dario's GitHub Stats" src="https://github-readme-stats.dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&show_icons=true&theme=gotham" />
+<img align="left" alt="Dario's GitHub Stats" src="https://github-readme-stats-three-chi.vercel.app/api?username=dar1ooo&count_private=true&show_icons=true&theme=gotham" />
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -16,8 +16,8 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <br>
 </p>
-<img alt="Dario's GitHub Stats" src="https://github-readme-stats.dar1ooo.vercel.app/api/top-langs?username=dar1ooo&layout=compact&langs_count=10&theme=gotham" />
-<img alt="Dario's GitHub Stats" src="https://github-readme-stats.dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&theme=gotham" />
+<img alt="Dario's GitHub Stats" src="https://github-readme-stats-three-chi.vercel.app/api/top-langs?username=dar1ooo&layout=compact&langs_count=10&theme=gotham" />
+<img alt="Dario's GitHub Stats" src="https://github-readme-stats-three-chi.vercel.app/api/wakatime?username=dar1ooo&layout=compact&theme=gotham" />
 
 #### Follow me on my socials
 [![alt text][1.1]][1]
