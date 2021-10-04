@@ -19,7 +19,7 @@
 
 [![Dario's Top Langs](https://github-readme-stats-three-chi.vercel.app/api/top-langs/?username=dar1ooo&langs_count=10&layout=compact&theme=gotham)](https://github.com/dar1ooo/github-readme-stats)
 
-[![Dario's wakatime stats](https://github-readme-stats-three-chi.vercel.app/api/wakatime?username=dar1ooo&v3&layout=compact&theme=gotham)](https://github.com/dar1ooo/github-readme-stats)
+[![Dario's wakatime stats](https://github-readme-stats-three-chi.vercel.app/api/wakatime?username=dar1ooo&v=3&layout=compact&theme=gotham)](https://github.com/dar1ooo/github-readme-stats)
 
 #### Follow me on my socials
 [![alt text][1.1]][1]
