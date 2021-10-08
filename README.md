@@ -17,9 +17,9 @@
   <br>
 </p>
 
-<img src="https://github-readme-stats-dar1ooo.vercel.app/api/top-langs/?username=dar1ooo&langs_count=8&layout=compact&theme=gotham" />
-
 <img src="https://github-readme-stats-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&v=3&layout=compact&theme=gotham" />
+
+<img src="https://github-readme-stats-dar1ooo.vercel.app/api/top-langs/?username=dar1ooo&langs_count=8&layout=compact&theme=gotham" />
 
 #### Follow me on my socials
 [![alt text][1.1]][1]
