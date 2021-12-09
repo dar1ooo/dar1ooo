@@ -9,8 +9,6 @@
 
 <img src="https://github-readme-stats-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&v=3&layout=compact&theme=gotham" />
 
-<img src="https://github-readme-stats-dar1ooo.vercel.app/api/top-langs/?username=dar1ooo&langs_count=8&layout=compact&theme=gotham" />
-
 <!---
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
