@@ -5,10 +5,13 @@
 <br>
 <br>
 <br>
-<img alt="Dario's GitHub Stats" src="https://github-readme-stats-five-flame.vercel.app/api?username=dar1ooo&count_private=true&show_icons=true&theme=tokyonight " />
-<br>
-<img src="https://github-readme-stats-five-flame.vercel.app/api/wakatime?username=dar1ooo&v=3&layout=compact&theme=tokyonight " />
-<br>
+
+<a href="https://github.com/dar1ooo">
+  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&theme=moltack" />
+</a>
+<a href="https://github.com/dar1ooo">
+  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count10&theme=moltack" />
+</a>
 
 ## 💼 Skills
 
