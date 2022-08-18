@@ -48,5 +48,4 @@
 [3]: https://instagram.com/dar1ooo
 [4]: https://www.snapchat.com/add/dumboy1
 <br>
-![](https://img.shields.io/badge/code%20quality-A%20for%20effort-success?style=for-the-badge&logo=appveyor)
-![](https://badges.pufler.dev/visits/dar1ooo/dar1ooo?style=for-the-badge&logo=appveyor)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=myffo&left_color=black&right_color=green)
