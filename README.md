@@ -1,8 +1,4 @@
-<br>
-<br>
-<br>
-<h3 align="center"><samp> Hi there 👋 welcome to my Github! I'm an Apprentice in Application Development, Open Source Contributor, and a pasta fanatic. I like <a href="https://angular.io/guide/what-is-angular">Angular</a> and I'm currently exploring Bot Programming</samp></h3>
-<br>
+[![@myffo's Holopin board](https://holopin.me/myffo)](https://holopin.io/@myffo)
 <br>
 <a href="https://github.com/dar1ooo">
   <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&theme=moltack" />
