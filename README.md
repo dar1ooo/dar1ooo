@@ -1,10 +1,10 @@
 [![@myffo's Holopin board](https://holopin.me/myffo)](https://holopin.io/@myffo)
 <br>
 <a href="https://github.com/dar1ooo">
-  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&theme=jolly " />
+  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api?username=dar1ooo&count_private=true&theme=jolly" />
 </a>
 <a href="https://github.com/dar1ooo">
-  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count=10&theme=jolly " />
+  <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count=10&theme=jolly" />
 </a>
 
 ## 💼 Skills
