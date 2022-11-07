@@ -43,6 +43,6 @@
 [1]: https://open.spotify.com/user/darioschaffner7
 [2]: https://twitter.com/dar1oooo
 [3]: https://instagram.com/dar1ooo
-[4]: https://www.snapchat.com/add/dumboy1
+[4]: https://www.snapchat.com/add/darr1oo
 <br>
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=myffo&left_color=black&right_color=green)
