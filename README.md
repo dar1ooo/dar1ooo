@@ -6,7 +6,7 @@
 <a href="https://github.com/dar1ooo">
   <img align="center" src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count=10&theme=jolly" />
 </a>
-
+[![total time coding: ](https://wakatime.com/badge/user/fa934d48-2f5f-4190-bfe2-457ca68fec95.svg)](https://wakatime.com/@fa934d48-2f5f-4190-bfe2-457ca68fec95)
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
