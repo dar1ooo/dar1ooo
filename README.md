@@ -1,7 +1,7 @@
-[![@myffo's Holopin board](https://holopin.me/myffo)](https://holopin.io/@myffo)
-<br>
-
 <table width="100%">
+  <tr>
+   <td colspan="2"><img src="https://holopin.me/myffo"/></td>
+  </tr>
   <tr>
    <td><img src="https://github-readme-stats-fscwwl8nn-dar1ooo.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count=10&theme=algolia&custom_title=Coding%20Time&hide=Other&range=all_time"/></td>
    <td><img src="https://github-profile-trophy.vercel.app/?username=dar1ooo&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/></td>
