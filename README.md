@@ -12,6 +12,10 @@
   </tr>
  </table>
 
+Coding Activity
+
+[![total time coding: ](https://wakatime.com/share/@dar1ooo/40e8093a-8b36-4344-be4f-247ee2e00106.svg)](https://wakatime.com/share/@dar1ooo/40e8093a-8b36-4344-be4f-247ee2e00106.svg)
+
 [![total time coding: ](https://wakatime.com/badge/user/fa934d48-2f5f-4190-bfe2-457ca68fec95.svg)](https://wakatime.com/@fa934d48-2f5f-4190-bfe2-457ca68fec95)
 
 # Tech Stack:
