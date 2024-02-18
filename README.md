@@ -11,6 +11,7 @@
    <td><img src="https://dar1ooo-readme-stats.vercel.app/api?username=dar1ooo&count_private=true&theme=algolia&custom_title=Github%20Stats"/></td>
   </tr>
  </table>
+ 
 
 Coding Activity
 
