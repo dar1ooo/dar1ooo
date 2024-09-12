@@ -13,8 +13,6 @@
  </table>
  
 
-Coding Activity
-
 [![total time coding: ](https://wakatime.com/badge/user/fa934d48-2f5f-4190-bfe2-457ca68fec95.svg)](https://wakatime.com/@fa934d48-2f5f-4190-bfe2-457ca68fec95)
 
 # Tech Stack:
