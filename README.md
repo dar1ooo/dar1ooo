@@ -4,10 +4,9 @@
   </tr>
   <tr>
    <td><img src="https://dar1ooo-readme-stats.vercel.app/api/wakatime?username=dar1ooo&layout=compact&langs_count=10&theme=algolia&custom_title=Coding%20Time&hide=Other&range=all_time"/></td>
-   <td><img src="https://github-profile-trophy.vercel.app/?username=dar1ooo&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/></td>
+   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dar1ooo&theme=algolia&hide_border=false"/></td>
   </tr>
    <tr>
-   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dar1ooo&theme=algolia&hide_border=false"/></td>
    <td><img src="https://dar1ooo-readme-stats.vercel.app/api?username=dar1ooo&count_private=true&theme=algolia&custom_title=Github%20Stats"/></td>
   </tr>
  </table>
